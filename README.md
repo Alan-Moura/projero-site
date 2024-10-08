@@ -1,2 +1,2 @@
-# projero-site
+# projeto-site
  site curso gustavo guanabara
